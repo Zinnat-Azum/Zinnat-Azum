@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zinnat Azum
 #### I am Web-Developer.
-![I am Web-Developer.]([(https://www.canva.com/design/DAFlsdBm3h4/4fGSMigpcUDYJz5VfHReGw/view?utm_content=DAFlsdBm3h4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)])
+![I am Web-Developer.]([[(https://www.canva.com/design/DAFlsdBm3h4/4fGSMigpcUDYJz5VfHReGw/view?utm_content=DAFlsdBm3h4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.facebook.com/photo/?fbid=152681067809910&set=a.109101572167860))])
 
 Hi there! I'm a passionate and dedicated React/JS/HTML/CSS developer with a love for creating captivating web experiences. With a strong foundation in front-end development, I enjoy crafting clean and interactive user interfaces that bring ideas to life. I thrive on continuous learning and staying up-to-date with the latest technologies, ensuring that my code is efficient, maintainable, and follows best practices. Let's build something amazing together!
 
