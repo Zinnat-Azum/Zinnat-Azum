@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Zinnat Azum
 #### I am Web-Developer.
-![I am Web-Developer.]([(https://www.linkedin.com/in/md-rasal-sheikh-79b203208/overlay/background-image/)])
+![I am Web-Developer.]   <img src="https://raw.githubusercontent.com/Zinnat-Azum/Zinnat-Azum/main/333.png" alt="banner img"/>
 
 Hi there! I'm a passionate and dedicated React/JS/HTML/CSS developer with a love for creating captivating web experiences. With a strong foundation in front-end development, I enjoy crafting clean and interactive user interfaces that bring ideas to life. I thrive on continuous learning and staying up-to-date with the latest technologies, ensuring that my code is efficient, maintainable, and follows best practices. Let's build something amazing together!
 
